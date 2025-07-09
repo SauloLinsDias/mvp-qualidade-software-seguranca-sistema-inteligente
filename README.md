@@ -7,6 +7,6 @@ O objetivo é construir uma solução capaz de prever doenças cardíacas a part
 - 📊 **notebook/**: Contém o Jupyter Notebook utilizado para exploração do dataset, preparação dos dados, treino e avaliação dos modelos.
 - ⚙️ **backend/**: API desenvolvida em Flask para expor os endpoints de predição e persistência dos dados.
 - 💻 **frontend/**: Aplicação web desenvolvida com Vite + React, responsável por coletar os dados do paciente e exibir os resultados.
-- 🧱 **Google Colab**: [Link para o notebook](https://colab.research.google.com/drive/1b2j4k3g5f6h7i8j9k0l1m2n3o4p5q6r7?usp=sharing)
+- 🧱 **Google Colab**: [Link para o notebook](https://colab.research.google.com/drive/1dvxUqs7T0lNwp_E4wNxh5IBY89LAvby6?usp=sharing)
 
 > Desenvolvido por **Saulo Lins Dias**.
