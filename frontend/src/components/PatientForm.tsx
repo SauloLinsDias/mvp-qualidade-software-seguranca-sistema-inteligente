@@ -31,7 +31,7 @@ const PatientForm = (props: PatientFormProps) => {
         props.onSubmit(data as Record<string, string | number>)
       }
 
-      if (heart_disease === 1) {
+      if (heart_disease) {
         Swal.fire({
           title: 'Alerta de Saúde',
           text: 'O paciente apresenta risco de doenças cardíacas.',
